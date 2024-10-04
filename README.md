@@ -1,0 +1,2 @@
+# portfolio
+this is a beginner-level portfolio website I created while learning HTML and CSS. The project showcases different sections such as Home, Services, Skills, Education, Experience, and Contact, all styled with basic CSS.
