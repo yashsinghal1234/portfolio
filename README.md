@@ -1,0 +1,1 @@
+Welcome to my portfolio website repository! This project showcases my skills, projects, and experience as a developer and designer. Built to demonstrate both my coding abilities and personal style, this portfolio site is a central hub where potential clients, employers, and collaborators can learn more about me and my work.
